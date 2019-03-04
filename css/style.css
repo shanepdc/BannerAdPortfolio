@@ -1,0 +1,162 @@
+body {
+  font-family: "Helvetica", Times, serif;
+ background-image: url(../images/bg.jpg);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    color: white;
+} 
+
+
+
+.top {
+    
+  
+    opacity: 45;
+    height: 150px;
+    Padding: 35px;
+    margin-bottom: 100px;
+}
+button {
+    
+    margin:12px;
+}
+p{
+    
+    font-style: italic;
+}
+
+h3 {
+    
+    Padding: 35px;
+}
+ul {
+      Padding: 35px;
+        color: white;
+    
+    
+    
+}
+
+.button1{
+    
+    padding: 25px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+
+}
+.button2 {
+    padding: 25px;
+     background-color: #0fccd8;
+      box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+        color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+
+
+}
+.button3 {
+    padding: 25px;
+    background-color: #0fccd8;
+    color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+}
+.button4 {
+    padding: 25px;
+     background-color: #0fccd8;
+        color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+      box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+
+}
+.button5 {
+    padding: 25px;
+  background-color: #0fccd8;
+        color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+      box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+
+}
+.button6 {padding: 25px;
+    background-color: #0fccd8;
+        color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+      box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+
+}
+.button7 {
+    padding: 25px;
+  background-color: #0fccd8;
+        color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+
+}
+.button8 {
+    padding: 25px;
+    background-color: #0fccd8;
+    color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+}
+.button9 {
+    
+    padding: 25px;
+    background-color: #0fccd8;
+    color: white;
+    font-family: "Helvetica", Times, serif;
+    font-size: 20px;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+}
+
+
+
+.button1:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button3:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button4:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button5:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button6:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button7:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button8:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button9:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
