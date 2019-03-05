@@ -23,12 +23,15 @@ button {
     
     margin:12px;
 }
-.buttons {
+/***.buttons {
     
     margin: 35px;
     display: flex;
     flex-basis: auto;
 }
+
+***/ 
+
 p{
     
     font-style: italic;
@@ -148,12 +151,114 @@ li { cursor: pointer; }
 
 
 
-.button1:hover {
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+.button10{
+    
+    padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+
+}
+.button11 {
+     padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+
+
+}
+.button12 {
+  padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+}
+.button13 {
+  padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+
+}
+.button14 {
+  padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+
+}
+.button15 {
+      padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+
+}
+.button16 {
+      padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+}
+.button17 {
+     padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+}
+.button18 {
+     padding: 10px;
+    background-color: #0fccd8;
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2), 0 2px 16px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: "Poppins", Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+      margin-right: 10px;
+}
+
+
+
+
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: white;
     color:grey;
 }
-
+/***
 .button2:hover {
  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     background-color: white;
@@ -202,3 +307,4 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     color:grey;
 }
 
+**/
